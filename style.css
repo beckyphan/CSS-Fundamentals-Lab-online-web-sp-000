@@ -20,6 +20,11 @@ figcaption {
   font-size: 12px;
 }
 
+img {
+  display: flex;
+  justify-content: center;
+}
+
 #details {
   background-color: red;
   margin: 0 auto;
