@@ -6,16 +6,11 @@ body {
 
 }
 
-
-header {
-  clear: both;
-  display: flex;
-  justify-content: space-around;
-}
-
 h1 {
   width: 100%;
   margin: 10 auto;
+  display: flex;
+  justify-content: space-around;
 }
 
 nav {
