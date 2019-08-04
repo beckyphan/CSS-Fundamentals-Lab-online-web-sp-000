@@ -13,6 +13,8 @@ figcaption {
   background-color: red;
 }
 
-#
+#details div {
+  display: inline-block;
+}
 
 
