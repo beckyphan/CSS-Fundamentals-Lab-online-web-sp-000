@@ -12,6 +12,10 @@ header {
   clear: both;
 }
 
+h1 {
+  margin: 0 auto;
+}
+
 nav {
   margin: 0 auto;
   width: 50%;
