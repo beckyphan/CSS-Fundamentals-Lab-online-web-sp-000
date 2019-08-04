@@ -8,12 +8,12 @@ body {
 
 
 header {
-  margin: 10 auto;
+  margin: 0 auto;
   clear: both;
 }
 
 h1 {
-  margin: 0 auto;
+  margin: 10 auto;
 }
 
 nav {
