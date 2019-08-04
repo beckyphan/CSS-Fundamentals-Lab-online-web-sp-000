@@ -12,11 +12,11 @@ figcaption {
 #details {
   background-color: red;
   margin: 0 auto;
+  justify-content: center;
 }
 
 #details div {
   display: inline-block;
-  justify-content: center;
 }
 
 
