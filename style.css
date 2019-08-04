@@ -4,6 +4,10 @@ body {
   margin: 0 auto;
 }
 
+header {
+  margin: 0 auto;
+}
+
 figcaption {
   font-size: 12px;
 }
