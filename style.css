@@ -4,7 +4,12 @@ body {
   margin: 0 auto;
 }
 
-header, nav {
+header {
+  width: 100%;
+  display: block;
+  align-items: center;
+}
+nav {
   width: 75%;
   display: flex;
   justify-content: space-around;
