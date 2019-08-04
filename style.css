@@ -16,7 +16,7 @@ figcaption {
 
 #details div {
   display: inline-block;
-  justify-content: space-between;
+  padding: 10px;
 }
 
 
