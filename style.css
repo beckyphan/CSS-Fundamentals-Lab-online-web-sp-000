@@ -5,9 +5,9 @@ body {
 }
 
 nav {
+  width: 75%;
   display: inline-flex;
-  justify-content: center;
-  padding: 0 15px;
+  justify-content: space-between;
 }
 
 figcaption {
