@@ -6,7 +6,7 @@ body {
   justify-content: center;
 }
 
-h1, p, img {
+h1, img {
   width: 90%;
   margin: 10 auto;
   display: flex;
@@ -14,7 +14,8 @@ h1, p, img {
 }
 
 p {
-  padding: 20px;
+  width: 800px;
+  justify-content: center;
 }
 
 nav {
