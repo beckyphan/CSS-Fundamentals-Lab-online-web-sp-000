@@ -28,7 +28,7 @@ figcaption {
 }
 
 #details div {
-  display: inline-block;
+  display: inline-flex;
   padding: 10px 25px;
 }
 
