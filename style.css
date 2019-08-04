@@ -23,6 +23,7 @@ figcaption {
 }
 
 #details {
+  clear: both;
   background-color: red;
   margin: 0 auto;
 }
