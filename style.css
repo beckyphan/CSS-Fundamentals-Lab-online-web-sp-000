@@ -11,7 +11,7 @@ header {
 
 nav {
   margin: 0 auto;
-  width: 50%;
+  width: 100%;
   display: flex;
   justify-content: space-around;
 }
