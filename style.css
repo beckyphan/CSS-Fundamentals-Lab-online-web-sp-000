@@ -4,9 +4,9 @@ body {
   margin: 0 auto;
 }
 
-header {
+nav {
   width: 100%;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
 }
 
