@@ -15,6 +15,7 @@ h1, img {
 
 p {
   width: 800px;
+  margin: 10 auto;
   justify-content: center;
 }
 
