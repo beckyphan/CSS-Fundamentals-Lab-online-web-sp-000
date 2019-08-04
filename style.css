@@ -4,7 +4,7 @@ body {
   margin: 0 auto;
 }
 
-nav {
+header, nav {
   width: 75%;
   display: inline-flex;
   justify-content: space-around;
