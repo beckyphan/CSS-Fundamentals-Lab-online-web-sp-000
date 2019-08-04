@@ -7,7 +7,7 @@ body {
 nav {
   width: 75%;
   display: inline-flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 figcaption {
