@@ -6,7 +6,7 @@ body {
 
 header, nav {
   width: 75%;
-  display: inline-flex;
+  display: flex;
   justify-content: space-around;
 }
 
